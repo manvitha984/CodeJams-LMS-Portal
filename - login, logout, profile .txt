@@ -1,0 +1,19 @@
+- login, logout, profile **
+- points **
+- badges **
+- leaderboard **
+- community discussion
+- languages: levels 
+- live contests
+- learning model with concepts n questions
+- streak, lives
+- learning styles (***)
+- track progress: live graph **
+- daily puzzle section
+
+
+to do:
+- 1 concept page
+- 1 game code playground
+
+- axios, google auth, figma (learning path), admin control, quotes for ppl with less rank,
